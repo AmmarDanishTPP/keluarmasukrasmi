@@ -186,7 +186,7 @@ $role = $_SESSION['role'];
         <img src="gambar/logo_jtm-removebg-preview.png" alt="Logo" class="logo">
         <img src="gambar/images-removebg-preview.png" alt="Logo" class="logo1">
         <div class="moving-header">
-            <h2>Selamat Datang Ke Sistem Keluar / Masuk Pelajar!</h2>
+            <h2>Selamat Datang Ke Sistem Keluar dan Masuk Pelajar!</h2>
         </div>
     </header>
 

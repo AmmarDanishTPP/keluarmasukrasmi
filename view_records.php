@@ -189,7 +189,7 @@ $result = $stmt->get_result();
             <?php endwhile; ?>
         <?php else: ?>
             <tr>
-                <td colspan="4" class="gray-text">Tiada rekod diisi.</td>
+                <td colspan="4" class="gray-text">Tiada rekod diisi</td>
             </tr>
         <?php endif; ?>
     </table>
