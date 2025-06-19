@@ -186,7 +186,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <div class="message">
             <?php if (!empty($message)) { echo $message; } ?>
         </div>
-        <label for="user_type">Pilih Jenis Pengguna</label>
+        <label for="user_type">Pilih Jenis Pengguna ammar buat exam</label>
         <br>
         <br>
         <select name="user_type" required>
