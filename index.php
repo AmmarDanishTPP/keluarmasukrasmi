@@ -12,7 +12,7 @@ $role = $_SESSION['role'];
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard</title>
+    <title>Dashboard ammar suka programming</title>
     <style>
         /* Main body styling with gradient background */
         body {
