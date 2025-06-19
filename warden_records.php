@@ -174,7 +174,7 @@ if (!$result) {
     </style>
 </head>
 <body>
-    <a href="indexwarden.php"><button class="btn-back">Kembali</button></a>
+    <a href="indexwarden.php"><button class="btn-back">Kembali datang ke sekolah</button></a>
     <h2>Rekod Pelajar</h2>
 
     <div class="table-container">
