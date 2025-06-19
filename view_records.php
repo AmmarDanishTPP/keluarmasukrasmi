@@ -140,7 +140,7 @@ $result = $stmt->get_result();
 </head>
 <body>
     <a href="index.php"><button>Kembali</button></a>
-    <h1>Rekod Pelajar</h1>
+    <h1>Rekod ammar seorang legendary</h1>
 
     <table>
         <tr>
